@@ -1,0 +1,25 @@
+C:/Users/osiri/Documents/SU/OOP/Midterm/MidtermStopWatch/MidtermStopWatch/bin/Debug/netcoreapp3.1/MidtermStopWatch.exe
+C:/Users/osiri/Documents/SU/OOP/Midterm/MidtermStopWatch/MidtermStopWatch/bin/Debug/netcoreapp3.1/MidtermStopWatch.deps.json
+C:/Users/osiri/Documents/SU/OOP/Midterm/MidtermStopWatch/MidtermStopWatch/bin/Debug/netcoreapp3.1/MidtermStopWatch.runtimeconfig.json
+C:/Users/osiri/Documents/SU/OOP/Midterm/MidtermStopWatch/MidtermStopWatch/bin/Debug/netcoreapp3.1/MidtermStopWatch.runtimeconfig.dev.json
+C:/Users/osiri/Documents/SU/OOP/Midterm/MidtermStopWatch/MidtermStopWatch/bin/Debug/netcoreapp3.1/MidtermStopWatch.dll
+C:/Users/osiri/Documents/SU/OOP/Midterm/MidtermStopWatch/MidtermStopWatch/bin/Debug/netcoreapp3.1/MidtermStopWatch.pdb
+C:/Users/osiri/Documents/SU/OOP/Midterm/MidtermStopWatch/MidtermStopWatch/obj/Debug/netcoreapp3.1/MidtermStopWatch.csproj.AssemblyReference.cache
+C:/Users/osiri/Documents/SU/OOP/Midterm/MidtermStopWatch/MidtermStopWatch/obj/Debug/netcoreapp3.1/MidtermStopWatch.AssemblyInfoInputs.cache
+C:/Users/osiri/Documents/SU/OOP/Midterm/MidtermStopWatch/MidtermStopWatch/obj/Debug/netcoreapp3.1/MidtermStopWatch.AssemblyInfo.cs
+C:/Users/osiri/Documents/SU/OOP/Midterm/MidtermStopWatch/MidtermStopWatch/obj/Debug/netcoreapp3.1/MidtermStopWatch.csproj.CoreCompileInputs.cache
+C:/Users/osiri/Documents/SU/OOP/Midterm/MidtermStopWatch/MidtermStopWatch/obj/Debug/netcoreapp3.1/MidtermStopWatch.dll
+C:/Users/osiri/Documents/SU/OOP/Midterm/MidtermStopWatch/MidtermStopWatch/obj/Debug/netcoreapp3.1/MidtermStopWatch.pdb
+C:/Users/osiri/Documents/SU/OOP/Midterm/MidtermStopWatch/MidtermStopWatch/obj/Debug/netcoreapp3.1/MidtermStopWatch.genruntimeconfig.cache
+/Users/salom11/Desktop/MidtermStopWatch 2/MidtermStopWatch/bin/Debug/netcoreapp3.1/MidtermStopWatch.deps.json
+/Users/salom11/Desktop/MidtermStopWatch 2/MidtermStopWatch/bin/Debug/netcoreapp3.1/MidtermStopWatch.runtimeconfig.json
+/Users/salom11/Desktop/MidtermStopWatch 2/MidtermStopWatch/bin/Debug/netcoreapp3.1/MidtermStopWatch.runtimeconfig.dev.json
+/Users/salom11/Desktop/MidtermStopWatch 2/MidtermStopWatch/bin/Debug/netcoreapp3.1/MidtermStopWatch.dll
+/Users/salom11/Desktop/MidtermStopWatch 2/MidtermStopWatch/bin/Debug/netcoreapp3.1/MidtermStopWatch.pdb
+/Users/salom11/Desktop/MidtermStopWatch 2/MidtermStopWatch/obj/Debug/netcoreapp3.1/MidtermStopWatch.csprojAssemblyReference.cache
+/Users/salom11/Desktop/MidtermStopWatch 2/MidtermStopWatch/obj/Debug/netcoreapp3.1/MidtermStopWatch.AssemblyInfoInputs.cache
+/Users/salom11/Desktop/MidtermStopWatch 2/MidtermStopWatch/obj/Debug/netcoreapp3.1/MidtermStopWatch.AssemblyInfo.cs
+/Users/salom11/Desktop/MidtermStopWatch 2/MidtermStopWatch/obj/Debug/netcoreapp3.1/MidtermStopWatch.csproj.CoreCompileInputs.cache
+/Users/salom11/Desktop/MidtermStopWatch 2/MidtermStopWatch/obj/Debug/netcoreapp3.1/MidtermStopWatch.dll
+/Users/salom11/Desktop/MidtermStopWatch 2/MidtermStopWatch/obj/Debug/netcoreapp3.1/MidtermStopWatch.pdb
+/Users/salom11/Desktop/MidtermStopWatch 2/MidtermStopWatch/obj/Debug/netcoreapp3.1/MidtermStopWatch.genruntimeconfig.cache
